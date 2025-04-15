@@ -1,0 +1,48 @@
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: yangshunz
+    github: yangshun
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com
+
+ayoub:
+  name: Ayoub Amer
+  title: Web 3 Developer
+  url: https://github.com/ayoubbuoya
+  image_url: https://avatars.githubusercontent.com/u/69482481?v=4
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/blog/authors/ayoub-amer'
+  socials:
+    github: ayoubbuoya
+    linkedin: amer-ayoub
+
+farouk:
+  name: Farouk Allani
+  title: Full Stack Developer
+  url: https://faroukallani.tn
+  image_url: https://avatars.githubusercontent.com/u/81933547?v=4
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/blog/authors/farouk-allani'
+  socials:
+    github: farouk-allani
+    linkedin: farouk-allani-65b566236
+
