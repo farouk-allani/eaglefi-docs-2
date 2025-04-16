@@ -7,10 +7,10 @@ sidebar_label: FAQ
 ### 🦅 General
 
 **What is EagleFi?**  
-EagleFi is a **decentralized exchange built by three Tunisian developers** who refused to let geography define their impact. Swap tokens, launch projects, and trade on Massa’s lightning-fast network—all while supporting a DEX that believes DeFi should belong to *everyone*.  
+EagleFi is a **decentralized exchange built by three passionate developers** who refused to let geography define their impact. Swap tokens, launch projects, and trade on Massa’s lightning-fast network, all while supporting a DEX that believes DeFi should belong to *everyone*.  
 
 **Why build on Massa?**  
-Massa isn’t just fast (10,000+ TPS fast 🚀)—it’s one of the most decentralized blockchains in existence. We chose Massa because **decentralization isn’t a buzzword for us—it’s a mission.**  
+Massa isn’t just fast (10,000+ TPS fast), it’s one of the most decentralized blockchains in existence. We chose Massa because **decentralization isn’t a buzzword for us, it’s a mission.**  
 
 ---
 
@@ -30,11 +30,15 @@ We treat your funds like our own. All contracts are audited, open-source, and ba
 ### 🔄 Swaps & Pools
 
 **What’s impermanent loss?**  
-It’s the temporary loss you *might* face if token prices in a pool shift. Think of it like turbulence—manageable if you’re prepared. [Learn to navigate it here](/docs/pools.md).  
+It’s the temporary loss you *might* face if token prices in a pool shift. Think of it like turbulence, manageable if you’re prepared. [Learn to navigate it here](/docs/pools.md).  
 
 **What fees does EagleFi charge?**
 
-- **Swaps**: 0.3% fee (goes straight to liquidity providers—AKA *you*).  
+- **Swaps**: Fees range from 0.01% to 1% (all fees go directly to liquidity providers):
+  - 0.01% for very stable pairs
+  - 0.05% for stable pairs
+  - 0.3% for most MRC-20 pairs (default)
+  - 1% for exotic pairs
 - **Token Creation/Pools**: Just gas fees. No hidden costs. Ever.  
 
 **Why provide liquidity?**  
@@ -47,11 +51,11 @@ Earn fees passively *and* support the tokens you believe in. Plus, you’ll earn
 **My transaction failed!**
 
 - Check your gas fees (Massa’s are low, but not zero).  
-- Refresh the page. Yes, really—it works 90% of the time.  
+- Refresh the page. Yes, really, it works 90% of the time.  
 - Still stuck? [Howl for help on Discord](https://discord.com/invite/r7hpAxVUMC).  
 
 **When is mainnet launching?**  
-When it’s ready. We’re perfectionists—no rushed code here. [Follow our X](https://x.com/Eaglefi_Massa) for updates.  
+When it’s ready. We’re perfectionists, so no rushed code here. [Follow our X](https://x.com/Eaglefi_Massa) for updates.  
 
 ---
 
@@ -64,7 +68,7 @@ When it’s ready. We’re perfectionists—no rushed code here. [Follow our X](
 - **Stay critical**: Found a bug? Report it. We’ll love you forever.  
 
 **Who’s behind EagleFi?**  
-Three caffeine-fueled developers from Tunisia, a few thousand lines of code, and a *lot* of belief in decentralization. [Meet the flock](#team).  
+Three caffeine-fueled developers, a few thousand lines of code, and a *lot* of belief in decentralization. [Meet the flock](#team).  
 
 ---
 

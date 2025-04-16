@@ -31,10 +31,10 @@ Chrome, Firefox, or Brave recommended for smoothest flight.
 ### Step 1: Connect to EagleFi  
 
 1. **Visit [EagleFi.io](https://eaglefi.io)** ✨  
-   *(Our team poured love into every pixel—tell us what you think!)*  
+   *(Our team poured love into every pixel, tell us what you think!)*  
 
 2. **Click "Connect Wallet"**  
-   Top-right corner. No hidden buttons—promise.  
+   Top-right corner. No hidden buttons, promise.
 
 3. **Choose Your Wallet**  
    Approve the connection like you’d trust a fellow builder.  
@@ -54,7 +54,7 @@ Your **EagleFi Command Center** awaits:
 - **Pools**: Dive into liquidity or create your own.  
 - **Tokens**: Launch your dream project in minutes.  
 
-*Tip: Hover over buttons—our UI is packed with helpful tooltips!*  
+*Tip: Hover over buttons,our UI is packed with helpful tooltips!*  
 
 <!-- ---
 
@@ -83,8 +83,8 @@ Send assets to your wallet address (visible in EagleFi’s dashboard).
    - [Start a Pool](https://www.eaglefi.io/create-pool): Earn fees as a liquidity provider.  
 
 **Stuck?**  
-Join our [Telegram](https://t.me/eaglefi_community) or [Discord](https://discord.com/invite/r7hpAxVUMC)—we’re here to help!  
+Join our [Telegram](https://t.me/eaglefi_community) or [Discord](https://discord.com/invite/r7hpAxVUMC), we’re here to help!  
 
 ---
 
-*EagleFi: Built by dreamers, for dreamers. Let’s decentralize the world—together.* 🌍✨
+*EagleFi: Built by dreamers, for dreamers. Let’s decentralize the world together.* 🌍✨

@@ -62,7 +62,7 @@ export default function Home(): ReactNode {
                 </div>
               </div>
             </div> */}
-            <HomepageFeatures />
+            {/* <HomepageFeatures /> */}
             <div className="row padding-vert--xl">
               <div className="col col--6">
                 <div className="card">
