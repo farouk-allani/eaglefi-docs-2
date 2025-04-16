@@ -23,6 +23,7 @@ const config: Config = {
         docs: {
           sidebarPath: "./sidebars.ts",
           editUrl: "https://github.com/eaglefi/eaglefi-docs/edit/main/", // Update with your repo
+          routeBasePath: "/",
         },
         blog: {
           showReadingTime: true,
@@ -45,7 +46,7 @@ const config: Config = {
         src: "img/logo header.png",
       },
       items: [
-        { to: "/docs/intro", label: "Docs", position: "left" },
+        { to: "/", label: "Docs", position: "left" },
         { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://eaglefi.io",
@@ -62,7 +63,7 @@ const config: Config = {
           items: [
             {
               label: "Getting Started",
-              to: "/docs/intro",
+              to: "/",
             },
           ],
         },

@@ -50,7 +50,7 @@ Chrome, Firefox, or Brave recommended for smoothest flight.
 Your **EagleFi Command Center** awaits:  
 
 - **Portfolio**: Track every token like a hawk.  
-- **Swap**: Trade faster than Massa’s 10,000 TPS.  
+- **Swap**: Trade tokens in seconds.
 - **Pools**: Dive into liquidity or create your own.  
 - **Tokens**: Launch your dream project in minutes.  
 

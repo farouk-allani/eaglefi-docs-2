@@ -1,6 +1,6 @@
 ---
 slug: eaglefi-enhancing-u256-capabilities
-title: "Enhancing u256 capabilities for the Massa Ecosystem"
+title: "Enhancing u256 capabilities for Massa"
 authors: [ayoub]
 tags: [massa, smart-contracts, defi, eaglefi, development]
 ---

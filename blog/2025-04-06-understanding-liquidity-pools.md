@@ -1,6 +1,6 @@
 ---
 slug: understanding-liquidity-pools
-title: Understanding Liquidity Pools - The Building Blocks of DeFi
+title: Understanding Liquidity Pools
 authors: [farouk]
 tags: [defi, liquidity-pools, crypto, education, eaglefi]
 ---

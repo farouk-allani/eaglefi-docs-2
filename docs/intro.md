@@ -2,6 +2,7 @@
 id: intro
 title: Welcome to EagleFi
 sidebar_label: Introduction
+slug: /
 ---
 
 ## What is EagleFi?
@@ -42,7 +43,7 @@ For months, we coded tirelessly:
 
 - **Token Creation**: Simplifying launches so anyone can mint their vision.
 - **Liquidity Pools**: Rewarding providers fairly, because DeFi works best when everyone wins.  
-- **Swaps So Fast**, rival Massa’s 10,000 TPS heartbeat.  
+- **Swaps So Fast**: Rival Massa’s 10,000 TPS heartbeat.
 
 There were setbacks. Audits that kept us awake. Design tweaks that felt endless. But through it all, one truth held: **decentralization is worth fighting for**.  
 
