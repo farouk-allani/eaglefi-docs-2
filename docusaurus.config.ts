@@ -22,7 +22,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
-          editUrl: "https://github.com/eaglefi/eaglefi-docs/edit/main/", // Update with your repo
+          editUrl: "https://github.com/farouk-allani/eaglefi-docs-2/edit/main/",
           routeBasePath: "/",
         },
         blog: {
