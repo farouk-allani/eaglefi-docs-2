@@ -64,8 +64,8 @@ Choose from four fee structures:
 
 | Fee Percentage | Best For                      | Trade-off               |
 |----------------|------------------------------|-------------------------|
-| 0.01%          | Stablecoin pairs             | Lowest fee income       |
-| 0.05%          | Pegged assets                | Moderate volatility     |
+| 0.01%          | Very stable pairs             | Lowest fee income       |
+| 0.05%          | Stable pairs               | Moderate volatility     |
 | 0.3%           | Most MRC-20 pairs (Default)  | Balanced risk/reward    |
 | 1%             | Exotic/illiquid tokens       | High impermanent loss   |
 

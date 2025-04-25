@@ -15,15 +15,15 @@ Built by three passionate developers who started with nothing but a bounty and a
 - **Create Tokens**: Launch your ideas into the decentralized world.  
 - **Liquidity Pools**: Create pools and earn fees from trading activity.
 - **Liquidity Management**: Add or remove liquidity from pools effortlessly.
-- **Swap Instantly**: Trade with speed and near-zero fees.  
+- **Swap**: Trade tokens with ease.
 
 ### Our Mission: Democratize DeFi, One Block at a Time  
 
-In a world where giants dominate, EagleFi stands as a beacon for the underdog. We believe DeFi should be **accessible**, **secure**, and **community-driven**, values deeply aligned with Massa’s decentralized ethos.  
+In a world where giants dominate, we believe DeFi should be **accessible**, **secure**, and **community-driven**, values deeply aligned with Massa’s decentralized ethos.  
 
 - **For the Builders**: We’re proof that a small team can change the game. No venture funding, just grit and code.  
 - **For the People**: We prioritize transparency and safety, ensuring every swap, pool, and token is crafted with care.  
-- **For the Future**: We’re not just building a DEX; we’re fostering a movement where anyone, anywhere, can shape the future of finance.  
+- **For the Future**: EagleFi is more than a DEX, it’s your all-in-one DeFi toolkit, powered by AI to make DeFi smarter than ever.  
 
 ---
 
@@ -42,8 +42,8 @@ Day and night, we poured our hearts into this project, tackling complex technica
 For months, we coded tirelessly:
 
 - **Token Creation**: Simplifying launches so anyone can mint their vision.
-- **Liquidity Pools**: Rewarding providers fairly, because DeFi works best when everyone wins.  
-- **Swaps So Fast**: Rival Massa’s 10,000 TPS heartbeat.
+- **Liquidity Pools**: Rewarding providers , because DeFi works best when everyone wins.  
+- **Swaps**: Exchange intuitively.
 
 There were setbacks. Audits that kept us awake. Design tweaks that felt endless. But through it all, one truth held: **decentralization is worth fighting for**.  
 
@@ -71,7 +71,7 @@ Integrate with open-source, audited contracts. Build on a DEX that values trustl
 
 ## Join the Flight  
 
-EagleFi isn’t just our story, it’s yours. Whether you’re swapping your first token or launching a protocol, you’re part of a revolution.  
+EagleFi isn’t just our story, it’s yours. Whether you’re swapping or launching your first token, you’re part of a revolution.  
 
 **Together, let’s prove that decentralized finance belongs to everyone.**  
 

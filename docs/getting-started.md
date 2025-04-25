@@ -50,8 +50,8 @@ Chrome, Firefox, or Brave recommended for smoothest flight.
 Your **EagleFi Command Center** awaits:  
 
 - **Portfolio**: Track every token like a hawk.  
-- **Swap**: Trade tokens in seconds.
-- **Pools**: Dive into liquidity or create your own.  
+- **Swap**: Trade tokens with ease.
+- **Pools**: Dive into liquidity or create your own pool.  
 - **Tokens**: Launch your dream project in minutes.  
 
 *Tip: Hover over buttons,our UI is packed with helpful tooltips!*  

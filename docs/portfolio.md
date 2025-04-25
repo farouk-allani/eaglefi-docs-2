@@ -19,7 +19,7 @@ EagleFi’s Portfolio page shows all your assets on the Massa blockchain in one 
 - **Pool Positions**: Liquidity you’ve provided.
 - **Token Details**: Click for more info on each token.
 - **Staking Positions**: Your rolls positions.
-- **Transaction History**: Display of all your transactions history.
+- **Transaction History**: Display of all your transactions history on EagleFi.
 
 ### Tips
 

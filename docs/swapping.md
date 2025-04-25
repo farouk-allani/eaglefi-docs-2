@@ -6,7 +6,7 @@ sidebar_label: Swapping
 
 # Complete Guide to Token Swapping ♻️
 
-Execute instant token trades on EagleFi with Massa's sub-second finality and low fees.
+Execute token trades on EagleFi with Massa convenience.
 
 <!-- ![Swap Interface Demo](path-to-swap-screenshot.png) -->
 
@@ -43,15 +43,15 @@ Execute instant token trades on EagleFi with Massa's sub-second finality and low
 
 #### Input Options
 
-- **From Amount**: Direct input with balance percentage shortcuts
+- **From Amount**: Direct input
 - **To Amount**: Auto-calculated based on pool rates
-- Bidirectional updates (either field can initiate calculation)
+<!-- - Bidirectional updates (either field can initiate calculation) -->
 
 #### Price Information
 
 - Live USD conversions for both tokens
 - Dynamic price impact percentage
-- Minimum received calculation (slippage-adjusted)
+- Minimum received calculation
 
 <!-- ![Amount Input](screenshot-amount-input.png) -->
 
