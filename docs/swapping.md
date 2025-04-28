@@ -16,7 +16,7 @@ Execute token trades on EagleFi with Massa convenience.
 
 1. Navigate to **Swap** in main menu
 2. Connect your Massa Wallet
-3. Ensure sufficient balance for swap and gas fees
+3. Ensure sufficient balance for swap and enough MAS for gas fees
 
 <!-- ![Swap Access](screenshot-swap-access.png) -->
 
@@ -108,13 +108,13 @@ Access via gear icon (top-right):
 
 ### Liquidity Provision
 
-[Add swapped tokens](./pools) to liquidity pools to earn fees
+You can add swapped tokens to liquidity [pools](./pools) to earn fees
 
-## Technical Considerations
+<!-- ## Technical Considerations
 
 ### Swap Execution Flow
 
 1. Best route calculation via backend API
 2. Multi-pool routing when necessary
 3. Automated allowance management
-4. Massa Web3 contract interactions
+4. Massa Web3 contract interactions -->

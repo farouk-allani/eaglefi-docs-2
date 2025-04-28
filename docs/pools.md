@@ -33,9 +33,9 @@ Launch trading pairs and become a liquidity provider on EagleFi's decentralized 
   
 ![Token A Selection](/img/T_A.png)
 
-#### Token B (WMAS Default)
+#### Token B (WMAS or MAS)
 
-- Automatically set to WMAS (Wrapped MASSA)
+- Automatically set to WMAS by default
 - Can switch to MAS (native currency) if needed
   
   ![Token B Selection](/img/T_B.png)
@@ -78,7 +78,7 @@ Our system automatically checks for:
 - Token pair availability
 - Duplicate pool prevention
 - Sufficient token balances
-- Valid price ratio
+- Valid token amount ratio
 
 ### 6. Transaction Execution
 
@@ -96,13 +96,10 @@ Our system automatically checks for:
 
 1. Check **Your Pools** section in Portfolio or Pools page
 2. Confirm pool appears in [Massa Explorer](https://explorer.massa.net)
-3. Verify initial liquidity
 
 ### Initial Liquidity Tips
 
-- Maintain 1:1 value ratio
 - Larger liquidity reduces price slippage
-- Consider minimum 1,000 tokens per asset
 
 ## Critical Considerations
 

@@ -18,12 +18,12 @@ EagleFi’s Portfolio page shows all your assets on the Massa blockchain in one 
 - **Token Balances**: Real-time value of your holdings.
 - **Pool Positions**: Liquidity you’ve provided.
 - **Token Details**: Click for more info on each token.
-- **Staking Positions**: Your rolls positions.
+- **View Your Staking**: Check your rolls.
 - **Transaction History**: Display of all your transactions history on EagleFi.
 
 ### Tips
 
 - Ensure your wallet is connected to Massa’s [mainnet/buildnet].
-- Refresh the page if balances don’t update.
+
 
 **Troubleshooting**: Don’t see your tokens? Check your wallet address or network settings.

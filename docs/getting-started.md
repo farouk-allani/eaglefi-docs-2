@@ -80,7 +80,7 @@ Send assets to your wallet address (visible in EagleFi’s dashboard).
 
 2. **Build Your Legacy**  
    - [Create a Token](https://www.eaglefi.io/create-token): Launch your idea.  
-   - [Start a Pool](https://www.eaglefi.io/create-pool): Earn fees as a liquidity provider.  
+   - [Create a Pool](https://www.eaglefi.io/create-pool): Earn fees as a liquidity provider.  
 
 **Stuck?**  
 Join our [Telegram](https://t.me/eaglefi_community) or [Discord](https://discord.com/invite/r7hpAxVUMC), we’re here to help!  

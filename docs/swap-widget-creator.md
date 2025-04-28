@@ -4,9 +4,9 @@ title: Embeddable Swap Widget Creator
 sidebar_label: Swap Widget
 ---
 
-# Turn Any Site into a DEX 🛠️
+# Turn any site into a DEX 🛠️
 
-EagleFi's Swap Widget lets you embed decentralized trading directly into your website. Perfect for projects, communities, or anyone who wants to add instant swap functionality.
+EagleFi's Swap Widget lets you embed decentralized trading directly into your website. Perfect for projects, communities, or anyone who wants to add swap functionality.
 
 ---
 

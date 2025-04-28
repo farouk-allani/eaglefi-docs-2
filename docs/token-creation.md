@@ -10,7 +10,7 @@ With EagleFi's Token Creation Tool, we expand our vision to make DeFi more acces
 
 Whether you're launching a new project on Massa, building a community token, or exploring blockchain possibilities, this tool eliminates the complexities of token creation, making it as simple as a few clicks. Our tool ensures:
 
-- **Accessibility**: No coding skills required - create tokens through our intuitive interface
+- **Accessibility**: No coding skills required, create tokens through our intuitive interface
 - **Customization**: Define your token properties including name, symbol, supply, and advanced features
 - **Security**: Protected mint authority and immutable core parameters for your peace of mind
 
@@ -119,7 +119,6 @@ Enable special capabilities through checkboxes:
 
 - Token automatically appears in your portfolio
 - Check transaction in [Massa Explorer](https://explorer.massa.net)
-- Verify metadata accuracy
 
 ### Next Steps
 
