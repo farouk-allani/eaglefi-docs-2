@@ -8,6 +8,7 @@ const sidebars: SidebarsConfig = {
       items: [
         "intro",
         "getting-started",
+        "smart-contracts",
         "portfolio",
         "token-creation",
         "pools",
