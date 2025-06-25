@@ -276,3 +276,10 @@ To start using or contributing to the project:
     npm run deploy:tokenDeployer
     npm run deploy:token
     ```
+## Deployed Smart Contract Addresses
+
+The following are the addresses of the deployed smart contracts on the Massa blockchain:
+
+* **Registry**: `AS1NYihs2Wy4D4P68JGY2hYSDDaqZ5YxhM2nDRsJVFZUykEEdSAW`
+* **Swap Router**: `AS1xoKcDq46fwKccuoit46KPzbXyKokPnxi6GWq8y4Xxk9ACsJ2g`
+* **Token Deployer**: `AS12p47nzKgcpZ1Jkv1Y382QGjJYsXeFb2nFsC6yrmtwTqyx7jdK3`
