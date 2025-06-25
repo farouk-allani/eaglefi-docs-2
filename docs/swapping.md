@@ -16,7 +16,10 @@ Execute token trades on EagleFi with Massa convenience.
 
 1. Navigate to **Swap** in main menu
 2. Connect your Massa Wallet
-3. Ensure sufficient balance for swap and enough MAS for gas fees
+3. Choose your network:
+   - **Mainnet**: [eaglefi.io](https://eaglefi.io)
+   - **Buildnet**: [buildnet.eaglefi.io](https://buildnet.eaglefi.io)
+4. Ensure sufficient balance for swap and enough MAS for gas fees
 
 <!-- ![Swap Access](screenshot-swap-access.png) -->
 

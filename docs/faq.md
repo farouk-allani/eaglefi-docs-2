@@ -87,7 +87,7 @@ sidebar_label: FAQ
 <details>
   <summary><strong>When is mainnet launching?</strong></summary>
   <div>
-    <p>When it’s ready. We’re perfectionists, so no rushed code here. <a href="https://x.com/Eaglefi_Massa">Follow our X</a> for updates.</p>
+    <p>We're live on mainnet! <a href="https://x.com/Eaglefi_Massa">Follow our X</a> for the latest updates.</p>
   </div>
 </details>
 

@@ -21,7 +21,7 @@ EagleFi works seamlessly with:
 **2. Fuel Up with $MAS**
 
 - **Testnet Tokens**: Get free $MAS from the [Massa Discord](https://discord.com/channels/828270821042159636/1097797634065956915) (#buildernet-faucet channel).
-- **Mainnet Tokens**: Buy $MAS on [Bitget](https://www.bitget.com/fr/spot/MASUSDT) or [MEXC](https://www.mexc.com/) (when live).
+- **Mainnet Tokens**: Buy $MAS on [EagleFi](https://www.eaglefi.io/bridge) , [Bitget](https://www.bitget.com/fr/spot/MASUSDT) or [MEXC](https://www.mexc.com/) .
 
 **3. Use a Modern Browser**  
 Chrome, Firefox, or Brave recommended for smoothest flight.  
@@ -40,8 +40,8 @@ Chrome, Firefox, or Brave recommended for smoothest flight.
    Approve the connection like you’d trust a fellow builder.  
 
 4. **Check Your Network**  
-   - **Testnet Pilots**: Ensure you’re on Massa Buildnet.  
-   - **Mainnet Explorers**: Coming soon! (Stay tuned 🚀)
+   - ~~**Testnet Pilots**: Ensure you're on Massa Buildnet.~~  
+   - **Mainnet**: Massa Mainnet is now live! 🚀
 
 ---
 
